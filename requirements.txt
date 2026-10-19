@@ -1,0 +1,9 @@
+torch
+transformers>=4.46,<5
+datasets>=3,<5
+accelerate>=1,<2
+sentencepiece
+scikit-learn
+numpy
+pandas
+matplotlib
