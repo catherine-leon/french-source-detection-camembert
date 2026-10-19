@@ -1,0 +1,16 @@
+{
+  "data_dir": ".",
+  "output_dir": "al_full",
+  "model": "camembert-base",
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "max_labeled": 750,
+  "initial_size": 50,
+  "query_size": 50,
+  "batch_size": 16,
+  "epochs": 5,
+  "final_test": true
+}
